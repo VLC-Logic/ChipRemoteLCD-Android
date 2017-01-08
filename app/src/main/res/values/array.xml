@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="spinner_array">
+        <item>Dispositivos</item>
+        <item>Casa 1</item>
+        <item>Casa 2</item>
+        <item>Casa padres</item>
+        <item>Añadir dispositivo</item>
+    </string-array>
+</resources>

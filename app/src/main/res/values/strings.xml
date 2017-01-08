@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Chip Remote LCD</string>
+
+    <!-- Strings pantalla activity_main -->
+    <string name="login_button">Pantalla Paris xD</string>
+
+    <!-- Strings pantalla pantalla_paris -->
+    <string name="mensaje">Mensaje</string>
+    <string name="mensaje_hint">Escribe tu mensaje</string>
+    <string name="checkbox_led_text">Encender Led</string>
+    <string name="checkbox_buzzer_text">Activar buzzer</string>
+
+    <string name="send_button">Enviar</string>
 </resources>
